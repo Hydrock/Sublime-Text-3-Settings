@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Themr"
+	]
+}
