@@ -1,9 +1,9 @@
 {
 	"draw_white_space": "all",
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Seti_orig.sublime-theme"
+	"theme": "Material Firewatch.sublime-theme"
 }
