@@ -7,7 +7,6 @@
 	[
 		"BracketHighlighter",
 		"Color Highlighter",
-		"CSScomb",
 		"Emmet",
 		"Flexbox Snippets",
 		"Git",
@@ -17,6 +16,7 @@
 		"JSX",
 		"Materialize",
 		"Package Control",
+		"PostCSS Sorting",
 		"Predawn",
 		"React ES6 Snippets",
 		"ReactJS",
